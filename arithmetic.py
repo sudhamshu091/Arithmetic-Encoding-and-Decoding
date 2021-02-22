@@ -12,7 +12,7 @@ elif h == 2:
 else:
     print("You entered invalid input")
 
-res = Counter(string)
+res = Counter(string) # counter from collections
 print(str(res))
 m = len(res)
 print(m)
@@ -39,6 +39,7 @@ while i < m-1:
 print(a)
 
 # Encoding
+# Lower Range, Upper Range and Tag using dict
 
 print("===Encoding===" )
 strlist = list(string)
