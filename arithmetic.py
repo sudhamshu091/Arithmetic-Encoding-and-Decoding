@@ -1,5 +1,6 @@
 from collections import *
 import numpy as np
+
 print("Arithmetic Encoding and Decoding")
 print("=============================================")
 h = int(input("Enter 1 if you want to enter in command window, 2 if you are using some file:"))
